@@ -1,12 +1,10 @@
 # Joe's Notes
 
-## Summary
+# Summary
 
-This repository contains all of the notes taken by myself, for the Lighthouse Labs Web Development Flex program.
+This repository contains all of the notes taken by [Joe](https://github.com/josephdoba) for the Lighthouse Labs Web Development Flex program.
 
-```console.log("Including some code examples");```
+# Table of contents:
 
-> And other important pieces of content to highlight.
-
-For a link to my github page: [click here](https://github.com/josephdoba)
-
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
